@@ -1,0 +1,10 @@
+<svg id="_1._Mendapatkan_driver" data-name="1. Mendapatkan driver" xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <rect id="Rectangle_6854" data-name="Rectangle 6854" width="30" height="30" rx="10" fill="#529641"/>
+  <g id="van" transform="translate(4.885 6.89)">
+    <path id="Path_13594" data-name="Path 13594" d="M15.383,5.5H2.593a.667.667,0,0,0-.673.673v8.078a.671.671,0,0,0,.673.673h12.79a.675.675,0,0,0,.673-.673V6.176a.671.671,0,0,0-.673-.673Z" transform="translate(-1.913 -5.503)" fill="#fff"/>
+    <path id="Path_13595" data-name="Path 13595" d="M1.91,23.463a.675.675,0,0,0,.673.673H3.31a3.391,3.391,0,0,1,2.881-2.693H2.59a1.9,1.9,0,0,1-.68-.121Z" transform="translate(-1.91 -10.673)" fill="#fff"/>
+    <path id="Path_13596" data-name="Path 13596" d="M23.895,20.6h.835a.675.675,0,0,0,.673-.673v-5.9c0-1.057-2.578-3.527-3.992-3.527H19.9v5.385a2.025,2.025,0,0,1-2.019,2.019H9.57A3.391,3.391,0,0,1,12.451,20.6h4.806a3.383,3.383,0,0,1,6.637,0Zm-2.888-8.441c3.447-.168,3.305,3.393,3.305,3.393H21.007Z" transform="translate(-4.414 -7.137)" fill="#fff"/>
+    <circle id="Ellipse_1612" data-name="Ellipse 1612" cx="2.033" cy="2.033" r="2.033" transform="translate(14.127 12.086)" fill="#fff"/>
+    <circle id="Ellipse_1613" data-name="Ellipse 1613" cx="2.033" cy="2.033" r="2.033" transform="translate(2.683 12.086)" fill="#fff"/>
+  </g>
+</svg>

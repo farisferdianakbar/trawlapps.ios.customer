@@ -1,0 +1,8 @@
+<svg id="_2._Barang_telah_diproses" data-name="2. Barang telah diproses" xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <rect id="Rectangle_6854" data-name="Rectangle 6854" width="30" height="30" rx="10" fill="#529641"/>
+  <g id="incoming_order" data-name="incoming order" transform="translate(5.295 6)">
+    <path id="Path_17909" data-name="Path 17909" d="M286,31h2.3v4.021H286Z" transform="translate(-275.047 -31)" fill="#fff"/>
+    <path id="Path_17910" data-name="Path 17910" d="M135.4,31h-4.634v4.6a.574.574,0,0,1-.574.574h-3.447a.574.574,0,0,1-.574-.574V31h-4.6a.574.574,0,0,0-.574.574V38.5a3.966,3.966,0,0,1,.574-.042,4.022,4.022,0,0,1,2.818,1.16h2.352a2.3,2.3,0,0,1,0,4.6h4.021a2.3,2.3,0,0,1,2.225,1.723H135.4a.574.574,0,0,0,.574-.574V31.574A.574.574,0,0,0,135.4,31Z" transform="translate(-116.366 -31)" fill="#fff"/>
+    <path id="Path_17911" data-name="Path 17911" d="M14.4,261.454H9.23a2.3,2.3,0,0,1-2.3-2.3h3.447a1.149,1.149,0,1,0,0-2.3H7.506a2.855,2.855,0,0,0-4.6,0H2.336v-.383a.574.574,0,0,0-.574-.574H.574a.574.574,0,0,0-.574.574v7.276a.574.574,0,0,0,.574.574H1.762a.574.574,0,0,0,.574-.574V262.6h.574l3.6,1.149H14.4a1.149,1.149,0,0,0,0-2.3Z" transform="translate(0 -247.093)" fill="#fff"/>
+  </g>
+</svg>
